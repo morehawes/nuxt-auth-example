@@ -1,6 +1,6 @@
 # Nuxt Auth Example
 
-> This is an example project using [nuxt-auth](https://github.com/sidebase/nuxt-auth), the Nuxt module providing  authentication and sessions via [NextAuth.js](https://github.com/nextauthjs/next-auth). `nuxt-auth` wraps [NextAuth.js](https://github.com/nextauthjs/next-auth) to offer the reliability & convenience of a 12k star library to the nuxt 3 ecosystem with a native developer experience (DX).
+> This is an example project using [nuxt-auth](https://github.com/sidebase/nuxt-auth), the Nuxt module providing  authentication and sessions via [NextAuth.js](https://github.com/nextauthjs/next-auth). `nuxt-auth` wraps [NextAuth.js](https://github.com/nextauthjs/next-auth) to offer the reliability & convenience of a 22k star library to the nuxt 3 ecosystem with a native developer experience (DX).
 
 The deployed version can be found [here](https://nuxt-auth-example.sidebase.io).
 
